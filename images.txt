@@ -2,3 +2,7 @@ langgenius/dify-api:latest
 langgenius/dify-sandbox:0.2.14
 ubuntu/squid:latest
 redis:6-alpine
+go-music-dl:latest
+moviepilot-v2:latest
+scrcpy-web:v0.1
+chishin/wol-go-web
