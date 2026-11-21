@@ -1,4 +1,4 @@
 redis:6-alpine
 mysql:latest
 guohuiyuan/go-music-dl:latest
-NousResearch/agent-desktop
+
